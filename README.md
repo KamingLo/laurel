@@ -30,7 +30,7 @@ Ikuti langkah-langkah ini untuk menjalankan proyek di komputer lokal Anda:
 
 1.  **Clone Repository**
     ```bash
-    git clone [https://github.com/kaminglo/laurel.git](https://github.com/username/laurel.git)
+    git clone [https://github.com/kaminglo/laurel.git]
     cd laurel
     ```
 
